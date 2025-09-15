@@ -1,11 +1,11 @@
-# 🧠 AutoDev AI - Die Zukunft der Softwareentwicklung
+# 🧠 authai - Die Zukunft der Softwareentwicklung
 ## Vollständiges Konzeptdokument einer selbstlernenden KI-Softwarefirma
 
 ---
 
 ## 📋 Executive Summary
 
-AutoDev AI revolutioniert die Softwareentwicklung durch die erste vollautomatische, selbstlernende KI-Softwarefirma der Welt. Gebaut auf modernster Tauri/Rust-Technologie, schafft das System eine native Desktop-Anwendung, die eine komplette Softwareentwicklungsorganisation mit neun spezialisierten KI-Agenten simuliert.
+authai revolutioniert die Softwareentwicklung durch die erste vollautomatische, selbstlernende KI-Softwarefirma der Welt. Gebaut auf modernster Tauri/Rust-Technologie, schafft das System eine native Desktop-Anwendung, die eine komplette Softwareentwicklungsorganisation mit neun spezialisierten KI-Agenten simuliert.
 
 Das System transformiert die Art, wie Software entwickelt wird: Von einer manuellen, fehleranfälligen und zeitaufwändigen Tätigkeit zu einem automatisierten, intelligenten und selbstoptimierenden Prozess. CEOs und Produktmanager können ihre Visionen direkt mit einem KI-CTO besprechen und dabei zusehen, wie ihre Ideen in Echtzeit zu funktionsfähiger Software werden.
 
@@ -17,7 +17,7 @@ Das System transformiert die Art, wie Software entwickelt wird: Von einer manuel
 "Eine Welt, in der jede Geschäftsidee innerhalb von 24 Stunden zu einer funktionsfähigen, professionell entwickelten Software wird - ohne menschliche Entwickler, ohne technische Hürden, ohne Kompromisse bei Qualität oder Sicherheit."
 
 ### Mission Statement
-AutoDev AI demokratisiert Softwareentwicklung durch die Schaffung der ersten vollständig autonomen KI-Softwarefirma, die menschliche Entwicklungsteams nicht ersetzt, sondern die Geschwindigkeit, Qualität und Zugänglichkeit von Softwareentwicklung um das 100-fache verbessert.
+authai demokratisiert Softwareentwicklung durch die Schaffung der ersten vollständig autonomen KI-Softwarefirma, die menschliche Entwicklungsteams nicht ersetzt, sondern die Geschwindigkeit, Qualität und Zugänglichkeit von Softwareentwicklung um das 100-fache verbessert.
 
 ### Kernprinzipien
 - **Autonomie**: Vollständige Selbstständigkeit ohne menschliche Intervention
@@ -361,7 +361,7 @@ Enterprise Platform
 ### Technology Moat
 
 **Native Performance Leadership**
-Während Konkurrenten auf Electron oder Web-basierte Lösungen setzen, bietet AutoDev AI durch Tauri/Rust eine fundamental überlegene Performance:
+Während Konkurrenten auf Electron oder Web-basierte Lösungen setzen, bietet authai durch Tauri/Rust eine fundamental überlegene Performance:
 - **10x kleinere Speicher-Footprint**
 - **5x schnellere Ausführung**
 - **Native Desktop Integration**
@@ -384,7 +384,7 @@ Als eines der ersten Systeme vollständig auf dem Model Context Protocol aufgeba
 ### Market Positioning
 
 **"The Tesla of Software Development"**
-Wie Tesla die Automobilindustrie durch fundamentale Innovation transformiert hat, revolutioniert AutoDev AI die Softwareentwicklung:
+Wie Tesla die Automobilindustrie durch fundamentale Innovation transformiert hat, revolutioniert authai die Softwareentwicklung:
 - **First Principles Thinking**: Grundlegende Neugestaltung statt inkrementelle Verbesserung
 - **Vertical Integration**: Kontrolle über den gesamten Entwicklungsstack
 - **Continuous Improvement**: Over-the-Air Updates für Agenten
